@@ -71,7 +71,7 @@ set display+=lastline
 set wildmode=list:longest,full
 set wildmenu
 set history=9999
-set mouse=a
+set mouse=r
 "set fillchars=vert:\ ,stl:\ ,stlnc:\ 
 set hidden
 set gdefault
