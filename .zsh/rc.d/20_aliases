@@ -43,7 +43,7 @@ alias screen=' screen'
 alias tmux=' tmux'
 
 # http://dev.mysql.com/doc/refman/4.1/en/mysql-tips.html#safe-updates
-check_com -c mysql && alias mysql='mysql --safe-updates'
+# check_com -c mysql && alias mysql='mysql --safe-updates'
 
 [[ -n "$EDITOR" ]] && alias e='$EDITOR'
 
